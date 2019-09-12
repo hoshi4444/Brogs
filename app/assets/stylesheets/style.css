@@ -1,0 +1,36 @@
+body {
+  background-color:#f0f4c3 ;
+}
+
+
+.row {
+  max-width: 80%;
+  margin:10px auto;
+  background-color:rgba(230,230,230,0.5);
+}
+
+.nav-wrapper {
+  max-width: 80%;
+  margin:0 auto;
+}
+
+nav {
+  position:fixed;
+  opacity: 0.75;
+  z-index: 1;
+}
+
+.content {
+  padding-top:65px;
+}
+
+.content_log {
+  padding-top:65px;
+  text-align: center;
+  margin:0 auto;
+  max-width: 80%;
+}
+
+/* .name {
+  float: right;
+} */
